@@ -1,0 +1,26 @@
+u fajl bi zasad trebo stavit:
+-podatke o mapama
+-podatke o vozilima
+-podatak o parama
+-podatak o upgradeovima svih vozila i kupljenim abilitiyima
+
+Mogućnosti na zaslonu kod opcije VEHICLE_CHOICE:
+	-unlockanje vozila
+	-ispis karakteristika vozila
+	-upgradanje karakteristika vozila (npr. brzina pucanja,jacina pucanja,health,ugradivanje dodatnih cannona)
+	-unlockanje posebnih abilitya svakog od vozila
+	-selectanje odredenog vozila prije igre
+
+Posebni abilitiyi/ili osnovne karakteristike odredenih vozila:
+	//-pucanje 3 metka odjednom (metci koji se rasprsuju u razlicitim smjerovima, te oni koji idu u istom smjeru)
+	-impuls (shock) koji brise sve postojece enemye
+	-omogucen laser na odredeno vrijeme koji ima jaci dmg te brze cisti enemye
+	-ability koji daje shield (brani od odredene kolicine dmga)
+	-freeze ability (zaleduje sve postojece enemye na odredeno vrijeme)
+	-jaci metci na odredeno vrijeme (takoder se mijenja i animacija/tekstura metka)
+
+-->menu kad se pritisne ESC
+--> texture i animacije
+--> leveli
+
+
