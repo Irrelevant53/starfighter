@@ -1,6 +1,5 @@
-Just a crappy game I made as a high school project.
+Just a spaceshooter game I made as a high school project using raylib library.
 
 ------------------------------------------------------
-------------------------------------------------------
 
-On Linux you can compile and run with: sh bash.sh (just make sure to edit path to files in bash.sh file).
+Have no idea how to compile anymore on linux anymore, whole thing was a mess.
